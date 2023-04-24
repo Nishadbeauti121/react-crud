@@ -1,0 +1,36 @@
+{
+  "student": [
+    {
+      "fname": "rajabhai",
+      "lname": "nishad",
+      "email": "nishad@gmail.com",
+      "password": "8236487",
+      "mobno": "90839278468",
+      "id": 1
+    },
+    {
+      "fname": "pooja",
+      "lname": "nishad",
+      "email": "pooja@gmail.com",
+      "password": "999999999999",
+      "mobno": "78487597495",
+      "id": 2
+    },
+    {
+      "fname": "raja",
+      "lname": "nishad",
+      "email": "nishad@gmail.com",
+      "password": "8376",
+      "mobno": "37987395",
+      "id": 3
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "email": "",
+      "password": "",
+      "mobno": "",
+      "id": 5
+    }
+  ]
+}
